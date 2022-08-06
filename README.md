@@ -1,2 +1,1 @@
-# JavaScript_Games
-For Fun and Practise
+# JavaScript-Games
